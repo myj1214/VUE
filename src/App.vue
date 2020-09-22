@@ -1,3 +1,4 @@
+
 <template>
   <div id="app">
     <router-link to="/home">Home</router-link>
